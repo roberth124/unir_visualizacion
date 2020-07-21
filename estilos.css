@@ -1,0 +1,45 @@
+
+rect{
+	stroke: SteelBlue;
+    stroke-width: 2;
+	fill: LightSteelBlue;
+}
+
+rect:hover {
+        fill: SteelBlue;
+    }
+
+text{
+	font-family: helvetica;
+	font-size: 10px;
+	text-align: middle;
+	color: SteelBlue;
+}
+
+h6 a {
+    color: #FCA205;
+    font-family: 'Lobster';
+}
+
+p{
+	font-family: helvetica;
+	color: SteelBlue;
+	font-size: 15px;
+	text-align: center;
+}
+
+div{
+	background-color: #fafafa;
+	margin: 1rem;
+	padding: 1rem;
+	color: SteelBlue;
+	border: 2px solid #ccc;
+	/* IMPORTANTE */
+	text-align: center;
+	fill: Lobster;
+}
+
+.resultado{
+	font-family: helvetica:
+
+}
